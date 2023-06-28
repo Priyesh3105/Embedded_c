@@ -1,0 +1,10 @@
+ID: 234556 -> Score: 70
+ID: 445656 -> Score: 67
+ID: 456457 -> Score: 76
+ID: 756564 -> Score: 78
+ID: 765463 -> Score: 23
+ID: 789655 -> Score: 78
+ID: 856412 -> Score: 50
+ID: 867555 -> Score: 45
+ID: 967785 -> Score: 87
+ID: 978656 -> Score: 45

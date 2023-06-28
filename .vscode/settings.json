@@ -1,0 +1,8 @@
+{
+    "C_Cpp.default.compilerPath": "c:\\Users\\DNK124\\Desktop\\priyesh\\demo.c",
+    "files.associations": {
+        "stdio.h": "c",
+        "stdlib.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
