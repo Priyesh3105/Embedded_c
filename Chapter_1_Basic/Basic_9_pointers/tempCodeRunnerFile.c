@@ -1,0 +1,1 @@
+ptr = (int*)malloc(2*sizeof(int));
